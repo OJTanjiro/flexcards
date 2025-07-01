@@ -9,7 +9,7 @@
 }
 
 .parentdiv{
-    border: 2px solid chartreuse;
+    /* border: 2px solid chartreuse; */
     width: 100%;
     margin: 0 auto;
     display: flex;
