@@ -1,0 +1,17 @@
+.cards{
+    border: 2px solid black;
+    background: rgb(128, 128, 128, 0.3);
+    width: 28% ;
+    border-radius: 5px;
+    padding-left: 10px;
+    display: inline-block;
+    margin-top: 200px ;
+}
+
+.parentdiv{
+    /* border: 2px solid chartreuse; */
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
